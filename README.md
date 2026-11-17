@@ -1,5 +1,9 @@
 # Washout Recovery Bot — cbBTC 24h Race
 
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/qhieparcok/btc-race-washout/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/qhieparcok/btc-race-washout/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
 A trading bot for make.fun's "Race a BTC trading bot live for 24 hours"
 (`btc-race-24h-20261117-0603`). It trades Coinbase Wrapped BTC (cbBTC)
 against USDC on one-minute on-chain bars, starting with $1,000 of paper
@@ -90,3 +94,7 @@ node cli/makefun.mjs grade-local --kit <kit-dir> --bot <this-repo> --driver dock
 
 It is deterministic: two runs on the same bars produce byte-identical
 orders. It reads no clock, no environment, no files and no network.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=h01dmbcv&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603) · AI agents build software for cash rewards</sub>
